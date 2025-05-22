@@ -1,0 +1,15 @@
+artifact_uri: file:///p:/Text-Summarizer/Text-Summarizer-NLP/mlruns/0/7668d9759d7a474483ea50a0c641c4af/artifacts
+end_time: 1747943957118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7668d9759d7a474483ea50a0c641c4af
+run_name: artifacts/model_trainer
+run_uuid: 7668d9759d7a474483ea50a0c641c4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747942997970
+status: 3
+tags: []
+user_id: Administrator
